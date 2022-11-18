@@ -1,0 +1,26 @@
+{
+  "1": {
+    "Name": "Deep Learning-Based Face Analytics",
+    "Authors": "Nalini K Ratha, Vishal M. Patel, Rama Chellappa",
+    "Description": "This book provides an overview of different deep learning-based methods for face recognition and related problems.  Specifically, the authors present methods based on autoencoders, restricted Boltzmann machines, and deep convolutional neural networks for face detection, localization, tracking, recognition, etc. The authors also discuss the merits and drawbacks of available approaches and identify promising avenues of research in this rapidly evolving field. Even though there have been a number of different approaches proposed in the literature for face recognition based on deep learning methods, there is not a single book available in the literature that gives a complete overview of these methods. The proposed book captures the state of the art in face recognition using various deep learning methods, and it covers a variety of different topics related to face recognition.  The prerequisites for optimal use are the basic knowledge of pattern recognition, machine learning, probability theory, and linear algebra.",
+    "DOI": "https://doi.org/10.1007/978-3-030-74697-1",
+    "Citations": 12,
+    "Publisher": "Springer Cham"
+  },
+  "2": {
+	"Name": "Computer Vision Detection, Recognition and Reconstruction",
+    "Authors": "Roberto Cipolla, Sebastiano Battiato, Giovanni Maria Farinella",
+    "Description": "Computer vision is the science and technology of making machines that see. It is concerned with the theory, design and implementation of algorithms that can automatically process visual data to recognize objects, track and recover their shape and spatial layout. The International Computer Vision Summer School - ICVSS was established in 2007 to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The courses are delivered by world renowned experts in the field, from both academia and industry, and cover both theoretical and practical aspects of real Computer Vision problems.",
+    "Citations": 103,
+    "DOI": "https://doi.org/10.1007/978-3-642-12848-6",
+    "Publisher": "Springer Berlin, Heidelberg"
+  },
+  "3": {
+  "Name":"Computer Vision Using Deep Learning",
+    "Authors": "Vaibhav Verdhan",
+    "Description": "This book will bring into focus these and other deep learning architectures and techniques to help you create solutions using Keras and the TensorFlow library. You'll also review mutliple neural network architectures, including LeNet, AlexNet, VGG, Inception, R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN, YOLO, and SqueezeNet and see how they work alongside Python code via best practices, tips, tricks, shortcuts, and pitfalls. All code snippets will be broken down and discussed thoroughly so you can implement the same principles in your respective environments. You will examine deep learning code and concepts to apply guiding principles to your own projects Classify and evaluate various architectures to better understand your options in various use cases Go behind the scenes of basic deep learning functions to find out how they work.",
+    "Citations": 7,
+    "DOI": "https://doi.org/10.1007/978-1-4842-6616-8",
+    "Publisher": "Apress Berkeley, CA"
+  }
+}
